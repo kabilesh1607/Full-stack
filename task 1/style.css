@@ -1,0 +1,37 @@
+body{
+    font-family:arial;
+    margin:0;
+    padding:30px;
+    color:#ffffff;
+    background-color:rgb(50, 114, 197)
+}
+h1{
+    text-align:center;
+    margin-top:30px;
+    color:#ecf00a;
+}
+h3{
+    color:rgb(255, 0, 119);
+    margin: 20px 0;
+}
+.para1{
+    margin:0 30px;
+    text-indent: 20px;
+    word-spacing: 1px;
+    line-height:1.5;
+}
+.main{
+    margin: 0 30px;
+}
+.main ol{
+    line-height: 1.5;
+}
+.main table{
+    width: 100%;
+    line-height: 1.5;
+}
+.main table tr th{
+    background-color: rgb(228, 128, 13);
+    color: rgb(223, 15, 15);
+    padding: 5px;
+}
